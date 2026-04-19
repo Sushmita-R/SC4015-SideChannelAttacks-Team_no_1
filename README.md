@@ -28,7 +28,7 @@ SC4015/
 ## How to Run
 
 1. Open the notebook SC4015_SCA_Team_no_1.ipynb in **Google Colab**  
-2. Mount Google Drive:
+2. Mount Google Drive (done by the notebook):
    ```python
    from google.colab import drive
    drive.mount('/content/drive')
